@@ -7,5 +7,7 @@ for i in range 12:
 print("what do you want to change this code")
 print("create for test")
 
+print("test")
+
 def newFunction():
   return "test"
